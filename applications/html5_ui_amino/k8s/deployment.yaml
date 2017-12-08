@@ -30,7 +30,7 @@ spec:
         tier: html5-ui-amino
     spec:
       containers:
-      - image: 127.0.0.1:30400/html5-ui-amino:latest
+      - image: 127.0.0.1:30400/html5_ui_amino:latest
         name: html5-ui-amino
         ports:
         - containerPort: 80
