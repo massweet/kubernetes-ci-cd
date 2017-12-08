@@ -1,0 +1,82 @@
+{
+    "epg": {
+        "description": "electronic program guide",
+        "resultSet": {
+            "totalItems": 13,
+            "totalPages": 3,
+            "itemsPerPage": 5,
+            "currentPage": 1,
+            "offset": 0
+        },
+        "programList": {
+            "description": "Program listing",
+            "language": "fi-Fi",
+            "pubDate": "Wed, 02 Aug 2017 03:05:03 +0300",
+            "programs": [{
+                "category": "Lifestyle",
+                "subCategory": "",
+                "categories": ["Lifestyle"],
+                "channelId": "17540",
+                "title": "Top Gear (7)",
+                "programUid": "42-17540-675118761-31-2017",
+                "startTime": "Wed, 02 Aug 2017 16:00:00 +0300",
+                "description": "Kausi 17. Jakso 1\/6. Richard leikkii Marauder-hy\u00f6kk\u00e4ysajoneuvolla, Jeremy koeajaa BMW:n 1M-mallin ja James tutustuu Minin uuteen WRC-malliin. Studiovieraana Alice Cooper. Brittil\u00e4inen auto-ohjelma.",
+                "duration": 3600,
+                "thumbnailUrl": "static/img/top_gear.jpg",
+                "recordable": "true"
+            },
+            {
+                "category": "Lifestyle",
+                "subCategory": "",
+                "categories": ["Lifestyle"],
+                "channelId": "17540",
+                "title": "Top Gear (S)",
+                "programUid": "42-17540-675118768-31-2017",
+                "startTime": "Wed, 02 Aug 2017 20:00:00 +0300",
+                "description": "Kausi 17. Jakso 2\/6. Kolmikko kaahaa Italiassa tehokkailla viistoperill\u00e4. James tutustuu Aston Martinin uuteen Virageen. Studiovieraana koomikko Ross Noble. Brittil\u00e4inen auto-ohjelma.",
+                "duration": 3600,
+                "thumbnailUrl": "static/img/top_gear.jpg",
+                "recordable": "true"
+            },
+            {
+                "category": "Lifestyle",
+                "subCategory": "",
+                "categories": ["Lifestyle"],
+                "channelId": "17540",
+                "title": "Top Gear (S)",
+                "programUid": "42-17540-675118882-31-2017",
+                "startTime": "Thu, 03 Aug 2017 16:00:00 +0300",
+                "description": "Kausi 17. Jakso 2\/6. Kolmikko kaahaa Italiassa tehokkailla viistoperill\u00e4. James tutustuu Aston Martinin uuteen Virageen. Studiovieraana koomikko Ross Noble. Brittil\u00e4inen auto-ohjelma.",
+                "duration": 3600,
+                "thumbnailUrl": "static/img/top_gear.jpg",
+                "recordable": "true"
+            },
+            {
+                "category": "Lifestyle",
+                "subCategory": "",
+                "categories": ["Lifestyle"],
+                "channelId": "17540",
+                "title": "Top Gear (S)",
+                "programUid": "42-17540-675118889-31-2017",
+                "startTime": "Thu, 03 Aug 2017 20:00:00 +0300",
+                "description": "Kausi 17. Jakso 3\/6. Jeremy koeajaa McLaren MP4-12C:n, James esittelee Range Roverin Evoquen. Studiovieraana Sebastian Vettel. Brittil\u00e4inen auto-ohjelma.",
+                "duration": 3600,
+                "thumbnailUrl": "static/img/top_gear.jpg",
+                "recordable": "true"
+            },
+            {
+                "category": "Lifestyle",
+                "subCategory": "",
+                "categories": ["Lifestyle"],
+                "channelId": "17540",
+                "title": "Top Gear (S)",
+                "programUid": "42-17540-675118996-31-2017",
+                "startTime": "Fri, 04 Aug 2017 16:00:00 +0300",
+                "description": "Kausi 17. Jakso 3\/6. Jeremy koeajaa McLaren MP4-12C:n, James esittelee Range Roverin Evoquen. Studiovieraana Sebastian Vettel. Brittil\u00e4inen auto-ohjelma.",
+                "duration": 3600,
+                "thumbnailUrl": "static/img/top_gear.jpg",
+                "recordable": "true"
+            }]
+        }
+    }
+}

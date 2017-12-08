@@ -1,0 +1,54 @@
+[
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "1",
+        "thumbnailUrl": "static/img/guardians.jpg",
+        "title": "Guardians of the Galaxy vol 2"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "2",
+        "thumbnailUrl": "static/img/starwars.png",
+        "title": "Rogue One Star Wars"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "3",
+        "thumbnailUrl": "static/img/lego.jpg",
+        "title": "The LEGO Batman Movie"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "4",
+        "thumbnailUrl": "static/img/starwars.png",
+        "title": "Rogue One Star Wars"
+    }
+]

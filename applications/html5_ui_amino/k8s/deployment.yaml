@@ -1,0 +1,37 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: html5-ui-amino
+  labels:
+    app: html5-ui-amino
+spec:
+  ports:
+    - port: 80
+      targetPort: 80
+  selector:
+    app: html5-ui-amino
+    tier: html5-ui-amino
+  type: NodePort
+
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: html5-ui-amino
+  labels:
+    app: html5-ui-amino
+spec:
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: html5-ui-amino
+        tier: html5-ui-amino
+    spec:
+      containers:
+      - image: 127.0.0.1:30400/html5-ui-amino:latest
+        name: html5-ui-amino
+        ports:
+        - containerPort: 80
+          name: html5-ui-amino

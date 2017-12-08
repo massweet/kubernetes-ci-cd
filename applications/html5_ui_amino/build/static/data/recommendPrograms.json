@@ -1,0 +1,200 @@
+[
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "1",
+        "thumbnailUrl": "static/img/poster/small/bird_man.jpeg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Bird man"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "2",
+        "thumbnailUrl": "static/img/poster/small/killbill.jpg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Kill Bill"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "3",
+        "thumbnailUrl": "static/img/poster/small/alien.jpg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Alien"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "4",
+        "thumbnailUrl": "static/img/poster/small/atu.jpg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Across The Universe"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "5",
+        "thumbnailUrl": "static/img/poster/small/cloud_atlas.jpeg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Could Atlas"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "6",
+        "thumbnailUrl": "static/img/poster/small/god_father.jpg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "The God Father"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "7",
+        "thumbnailUrl": "static/img/poster/small/help.jpeg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "The Help"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "8",
+        "thumbnailUrl": "static/img/poster/small/millionare.jpeg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Slumdog Millionare"
+    },
+    {
+        "category": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "duration": 7200,
+        "durationString": "2hour",
+        "programUid": "9",
+        "thumbnailUrl": "static/img/poster/small/mm.jpeg",
+        "recordings": [
+            {
+                "recorded_duration": 7200,
+                "status": "RECORDED",
+                "stream": {
+                    "streamUrl": ""
+                }
+            }
+        ],
+        "title": "Mama Mia!"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "home": true,
+    "onNow": true,
+    "epg": true,
+    "recordings": true,
+    "catchUp": true,
+    "onDemand": true,
+    "favourites": true,
+    "defaultPath": "/home",
+    "autoLogin": false,
+    "serviceUserName": "mobileclient",
+    "extraChannels": false,
+    "logoUrl": "Amino-logo-RGB-LS-REV-large.png"
+}
