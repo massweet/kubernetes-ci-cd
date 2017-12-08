@@ -22,5 +22,6 @@ node {
 
     stage "Deploy"
 
-        sh "sed 's#__IMAGE__#'$BUILDIMG'#' applications/html5_ui_amino/k8s/deployment.yaml | kubectl apply -f -"
+        sh "sed 's#127.0.0.1:30400/html5_ui_amino:latest#'$BUILDIMG'#' applications/html5_ui_amino/k8s/deployment.yaml | kubectl apply -f -"
+        sh "kubectl rollout status deployment/hello-kenzan"
 }
